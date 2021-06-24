@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Anderson Silva👋🏻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Anderson Silva">
 
-<!--
-**Anderson-DS/Anderson-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Living in Rio Grande do Sul<br>
+👨🏼‍🎓 I'm a student of **Internet System** in Instituto Federal Catarinense <br>
+👨🏼‍💻 I'm learning: **HTML**, **CSS**, **Javascript** and **JAVA**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎**Find me:**
+<p align="left">
+  <a href="https://www.instagram.com/andersondsilva/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/andersondsilva//"/></a>
+  
+  <a href="https://www.linkedin.com/in/anderson-silva-1a635a1a4/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-1a635a1a4/" /></a>
+</p>
